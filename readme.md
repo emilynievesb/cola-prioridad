@@ -1,6 +1,6 @@
 # Cola de Prioridad con Listas Enlazadas en Python
 
-### Estudiante: Emily Julieth Nieves Badillo
+### Estudiantes: Emily Julieth Nieves Badillo y Santiago Alexander Ospina Pabon
 
 Este proyecto implementa una **cola de prioridad** para un sistema de atención médica domiciliaria, cumpliendo con las siguientes indicaciones:
 
