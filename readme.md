@@ -50,7 +50,7 @@ La consola presenta un menú con 4 opciones:
 
 ## Pantallazos de Ejemplo
 
-A continuación se muestran capturas de la consola para ilustrar el funcionamiento. (Reemplaza las rutas de imagen con la ubicación que uses en tu repositorio.)
+A continuación se muestran capturas de la consola para ilustrar el funcionamiento.
 
 1. **Menú Principal**  
    ![Menú Principal](./imgs/imagen_menu_principal.png)
